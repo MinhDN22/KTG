@@ -83,5 +83,5 @@ DATA:
   GS_LAYOUT   TYPE LVC_S_LAYO.
 DATA: GRT_ELEHK  TYPE RANGE OF TCK07-ELEHK.
 
-
+*viet them
 *abc test them dong
